@@ -1,27 +1,11 @@
-What is Big O Notation?
-Big O notation helps to measure how fast or slow an algorithm works based on input size. It tells us the time it might take for large inputs.
+1. Understand Asymptotic Notation:
 
-For example:
-- O(n) means the time increases linearly with input.
-- O(log n) means the time increases slowly even if input grows fast.
+Q: Explain Big O notation and how it helps in analyzing algorithms.  
+A: Big O notation is a mathematical representation that describes the upper bound of an algorithm's runtime as the input size grows. It helps developers analyze how well an algorithm performs under increasing data sizes, ignoring constant factors and lower-order terms. By using Big O, we can compare different algorithms to determine which is more scalable and efficient in the long run. For example, O(n) is better than O(n²) for large datasets. This notation is essential for designing performance-optimized systems.
 
-Best, Average, and Worst Case
-- **Best Case:** The element is found at the first position.
-- **Average Case:** The element is somewhere in the middle.
-- **Worst Case:** The element is not found or is at the last position.
+Q: Describe the best, average, and worst-case scenarios for search operations.  
+A: In search algorithms, the best-case scenario refers to when the item is found immediately — usually the first element checked, which can take constant time (O(1)). The average-case considers a typical run, where the item might be found halfway through, depending on data distribution. The worst-case happens when the item is at the end of the list or not present at all, requiring a full scan — leading to O(n) for linear search and O(log n) for binary search. Understanding these scenarios helps in selecting the right algorithm for different contexts. It also aids in resource estimation and performance tuning.
 
----
 
-Time Complexity
 
-| Algorithm     | Best Case | Average Case | Worst Case |
-|---------------|-----------|---------------|-------------|
-| Linear Search | O(1)      | O(n)          | O(n)        |
-| Binary Search | O(1)      | O(log n)      | O(log n)    |
 
-Which is Better?
-Binary search is faster than linear search **but needs sorted data**. If the data is not sorted, linear search is better.
-
-For a large platform, **binary search is more suitable** if products are stored in a sorted way.
-
----
