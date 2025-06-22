@@ -1,0 +1,5 @@
+Q: Discuss the time complexity of your recursive algorithm.
+A: The time complexity of the given recursive algorithm is O(n), where n is the number of years. This is because the function calls itself once per year, reducing the year by 1 in each call, until it reaches 0. So if you forecast for 5 years, the function runs 5 times.
+
+Q: Explain how to optimize the recursive solution to avoid excessive computation.
+A: Although the recursive method is simple and efficient for small inputs, it can be optimized further by converting it into an iterative approach. Since this problem doesn’t recalculate the same inputs repeatedly, the simpler way to optimize it is to avoid recursion and use a loop instead. Iterative solutions avoid function call overhead and are better for larger values of year.for larger data we can use mathematical based algorithm.
