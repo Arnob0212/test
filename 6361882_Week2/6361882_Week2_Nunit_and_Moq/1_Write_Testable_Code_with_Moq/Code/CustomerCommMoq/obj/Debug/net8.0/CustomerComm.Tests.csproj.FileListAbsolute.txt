@@ -1,0 +1,6 @@
+C:\Users\KIIT\OneDrive\Desktop\Cognizant\6361882_Week2\6361882_Week2_Nunit_and_Moq\1_Write_Testable_Code_with_Moq\Code\CustomerCommMoq\bin\Debug\net8.0\.msCoverageSourceRootsMapping_CustomerComm.Tests
+C:\Users\KIIT\OneDrive\Desktop\Cognizant\6361882_Week2\6361882_Week2_Nunit_and_Moq\1_Write_Testable_Code_with_Moq\Code\CustomerCommMoq\obj\Debug\net8.0\CustomerComm.Tests.csproj.AssemblyReference.cache
+C:\Users\KIIT\OneDrive\Desktop\Cognizant\6361882_Week2\6361882_Week2_Nunit_and_Moq\1_Write_Testable_Code_with_Moq\Code\CustomerCommMoq\obj\Debug\net8.0\CustomerComm.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\OneDrive\Desktop\Cognizant\6361882_Week2\6361882_Week2_Nunit_and_Moq\1_Write_Testable_Code_with_Moq\Code\CustomerCommMoq\obj\Debug\net8.0\CustomerComm.Tests.AssemblyInfoInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\Cognizant\6361882_Week2\6361882_Week2_Nunit_and_Moq\1_Write_Testable_Code_with_Moq\Code\CustomerCommMoq\obj\Debug\net8.0\CustomerComm.Tests.AssemblyInfo.cs
+C:\Users\KIIT\OneDrive\Desktop\Cognizant\6361882_Week2\6361882_Week2_Nunit_and_Moq\1_Write_Testable_Code_with_Moq\Code\CustomerCommMoq\obj\Debug\net8.0\CustomerComm.Tests.csproj.CoreCompileInputs.cache
